@@ -24,3 +24,6 @@ No Windows: Entrar pelo cmd e navegar até a pasta recém descompactada (**Seman
 Estando dentro da pasta que contem o arquivo.py, executar o seguinte comando:
 
   _python semantix_test.py_
+
+
+O script deverá mostrar o valor de proximidade de cada vértice, ordedado de form crescente
