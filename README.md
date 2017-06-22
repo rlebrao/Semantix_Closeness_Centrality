@@ -21,5 +21,6 @@ No linux: Entrar pelo bash e navegar até a pasta com o nome de semantix, onde t
 
 No Windows: Entrar pelo cmd e navegar até a pasta com o nome de semantix, onde tera os arquivos edges.dat e semantix_test, navegue até a pasta utiliazando o comando "cd Nome\do\diretorio"
 
-Estando dentro da pasta que contem o arquivo.py, executar o seguinte comando: 
-  python semantix_test.py
+Estando dentro da pasta que contem o arquivo.py, executar o seguinte comando:
+
+  _python semantix_test.py_
