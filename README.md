@@ -14,12 +14,12 @@ Como Executar o script:
 
 3.Descompactar o arquivo e entrar na pasta com o mesmo nome
 
-4.Dentro da pasta você verá dois arquivos: README.md e uma pasta semantix
+4.Dentro da pasta você verá os arquivos: edges.dat, README.md e semantix_test.py
 
 
-No linux: Entrar pelo bash e navegar até a pasta com o nome de semantix, onde tera os arquivos edges.dat e semantix_test, navegue até a pasta utiliazando o comando "cd Nome\do\diretorio"
+No linux: Entrar pelo bash e navegar até a pasta recém descompactada (**Semantix_Closeness_Centrality-master**), onde tera os arquivos edges.dat e semantix_test.(Navegue até a pasta utiliazando o comando "cd Nome\do\diretorio")
 
-No Windows: Entrar pelo cmd e navegar até a pasta com o nome de semantix, onde tera os arquivos edges.dat e semantix_test, navegue até a pasta utiliazando o comando "cd Nome\do\diretorio"
+No Windows: Entrar pelo cmd e navegar até a pasta recém descompactada (**Semantix_Closeness_Centrality-master**), onde tera os arquivos edges.dat e semantix_test.(Navegue até a pasta utiliazando o comando "cd Nome\do\diretorio")
 
 Estando dentro da pasta que contem o arquivo.py, executar o seguinte comando:
 
