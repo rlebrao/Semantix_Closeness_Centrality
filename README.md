@@ -10,7 +10,7 @@ Como Executar o script:
 
 1.Instalar o python versão 3.6
 
-2.Fazer o download do repositório com extensão ".rar"
+2.Fazer o download do repositório zipado
 
 3.Descompactar o arquivo e entrar na pasta com o mesmo nome
 
